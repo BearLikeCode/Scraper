@@ -1,0 +1,28 @@
+{
+  "name": "Scraper-in-node.js",
+  "version": "1.0.0",
+  "description": "I write this project with language node.js. I use mongoose Schema for creating table in database and library request for simple http calls.",
+  "main": "",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.11",
+    "nodemon": "^1.18.10",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon scrape"
+  },
+  "keywords": [
+    "node.js",
+    "nodemon",
+    "mongoose",
+    "request",
+    "mongo",
+    "express",
+    "nodemon"
+  ],
+  "author": "BearLikeCode, BearCoder",
+  "license": "ISC"
+}
